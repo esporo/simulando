@@ -1,0 +1,60 @@
+# Site settings
+
+title: Simulando
+tagline: "Um fã-site de The Sims e SimCity"
+email: contato@simulando.net
+description: >-
+  Notícias, guias e discussões sobre The Sims e SimCity.
+
+logo: "/assets/images/logo.png"
+lang: pt-BR
+timezone: "America/Sao_Paulo"
+
+# Build settings
+baseurl: ""
+url: "https://simulando.net"
+
+theme: jekyll-theme-charlie
+
+charlie:
+  hide_site_title: true
+  date_formats:
+    day: "%d/%m/%Y"
+    month: "%m/%Y"
+    year: "%Y"
+
+permalink: "/:year/:month/:title/"
+
+keep_files:
+  - favicon.ico
+  - uploads
+  - assets
+
+# Plugin: jekyll-paginate
+paginate: 5
+paginate_path: "/pagina/:num/"
+seo_paginator_message: "Página %<current>s de %<total>s / "
+
+# Plugin: jekyll-seo-tag
+twitter:
+  card: summary
+  username: simulandonet
+
+social:
+  name: Simulando
+  links:
+    - https://twitter.com/simulandonet
+    - https://www.facebook.com/simulandonet
+
+# Plugin: jekyll-archives
+jekyll-archives:
+  enabled:
+    - tags
+    - year
+    - month
+  layout: "archive"
+  slug_mode: default
+  permalinks:
+    tag: "/tags/:name/"
+    year: "/:year/"
+    month: "/:year/:month/"
