@@ -11,21 +11,43 @@ lang: pt-BR
 timezone: "America/Sao_Paulo"
 
 # Build settings
-baseurl: ""
 url: "https://simulando.net"
+baseurl: ""
 
-theme: jekyll-theme-charlie
+theme: steve-for-jekyll
 
-charlie:
-  hide_site_title: true
-  date_formats:
-    day: "%d/%m/%Y"
-    month: "%m/%Y"
-    year: "%Y"
+steve:
+  intensedebate_account: # get one at <https://intensedebate.com/install>
+  archives: # Prefixes used with archive titles
+    date: Posts de
+    tag: Mais posts sobre…
+    category: Posts arquivados em
+  date_formats: # Uses <http://strftime.net>
+    post: "%d/%m/%Y" # The date format used in the post layout.
+    archives: # The date formats for the archive layout.
+      day: "%d/%m/%Y"
+      month: "%m/%Y"
+      year: "%Y"
+  page_404: |+
+    A página que você está procurando não foi encontrada. Talvez a busca possa te ajudar.
+  pagination: # Strings used in the blog- and post-pagination.
+    next_page: "&laquo; Posts mais recentes"
+    prev_page: "Posts anteriores &raquo;"
+    prev_post: "Anterior:"
+    next_post: "Próximo:"
+  post: # Strings used in the post layout.
+    byline: "Por"
+    tags: Mais sobre…
+  search: # Strings used in the search form.
+    label: Pesquisar
+    placeholder: O que você está procurando?
+    submit: Vai!
 
 permalink: "/:year/:month/:title/"
 
 keep_files:
+  - apple-touch-icon.png
+  - favicon.png
   - favicon.ico
   - uploads
   - assets

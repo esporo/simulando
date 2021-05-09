@@ -1,0 +1,17 @@
+- title: Notícias
+  url: "/"
+  color: "#4276b7"
+- title: The Sims
+  url: "/tags/the-sims/"
+- title: SimCity
+  url: "/tags/simcity/"
+  color: "#FF630C"
+- title: Dicas e Truques
+  url: "/tags/dicas-e-truques/"
+  color: "#3DB4DC"
+- title: Downloads
+  url: "/tags/downloads/"
+  color: "#a6e329"
+- title: Sobre
+  url: "/sobre/"
+  color: "#C62A1D"

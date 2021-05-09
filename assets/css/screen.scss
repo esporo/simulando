@@ -1,0 +1,44 @@
+---
+---
+
+/*
+  The Sims Colors
+  #4276b7	(66,118,183)
+  #3caad6	(60,170,214)
+  #3cb9e1	(60,185,225)
+  #21b96b	(33,185,107)
+  #a6e329	(166,227,41)
+
+  SimCity Colors
+  #0063BE (0,99,190)
+  #3DB4DC (61,180,220)
+  #FF630C (255,99,12)
+  #C62A1D (198,42,29)
+  #EFC22E (239,194,46)
+*/
+
+@import "fonts";
+
+$font__headings: "The Sims Sans", sans-serif;
+
+$color__background-body: #0063BE;
+$color__link: #21b96b;
+$color__link-hover: #a6e329;
+
+@import "{{ site.theme }}";
+
+body {
+	background-image: url("/assets/images/bg.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+[for="search_terms"] {
+  font-family: var(--font-headings);
+}
+
+.colophon,
+.colophon .external-links .link > a {
+  color: var(--color-bg);
+  text-shadow: 2px 2px 4px var(--color-text);
+}
