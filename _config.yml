@@ -17,7 +17,7 @@ baseurl: ""
 theme: steve-for-jekyll
 
 steve:
-  intensedebate_account: # get one at <https://intensedebate.com/install>
+  intensedebate_account: "f37545bdcc2673949e575f389b04eaad"
   archives: # Prefixes used with archive titles
     date: Posts de
     tag: Mais posts sobre…
