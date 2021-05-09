@@ -7,7 +7,7 @@ tags:
 - dicas e truques
 - códigos
 - The Sims
-date: 2021-05-09 15:17 -0300
+date: "2021-05-09 15:17 -0300"
 ---
 Para usar códigos no *The Sims*, abra a janela de truques digitando simultaneamente `Control + Shift + C`.
 
