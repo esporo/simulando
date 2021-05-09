@@ -70,13 +70,11 @@ social:
 
 # Plugin: jekyll-archives
 jekyll-archives:
-  enabled:
-    - tags
-    - year
-    - month
+  enabled: all
   layout: "archive"
   slug_mode: default
   permalinks:
+    category: "/:name/"
     tag: "/tags/:name/"
     year: "/:year/"
     month: "/:year/:month/"

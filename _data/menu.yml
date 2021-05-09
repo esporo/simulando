@@ -2,9 +2,9 @@
   url: "/"
   color: "#4276b7"
 - title: The Sims
-  url: "/tags/the-sims/"
+  url: "/the-sims/"
 - title: SimCity
-  url: "/tags/simcity/"
+  url: "/simcity/"
   color: "#FF630C"
 - title: Dicas e Truques
   url: "/tags/dicas-e-truques/"
