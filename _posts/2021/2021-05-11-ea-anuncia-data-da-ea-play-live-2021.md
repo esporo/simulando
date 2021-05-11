@@ -16,6 +16,6 @@ A EA anunciou que sua conferência anual EA Play Live acontecerá em 22 de julho
 
 EA Play Live (antes conhecida apenas como EA Play, que agora é o nome do serviço de assinatura de jogos da EA) acontece durante a E3. Antes, a EA era uma das principais atrações da exposição, mas desde 2016 decidiu seguir a linha da Nintendo e fazer uma conferência independente em uma data próxima. Vale lembrar que a EA guarda seus grandes anúncios para esse evento — _The Sims 4_ foi anunciado oficialmente na conferência da E3 em 2014.
 
-Rumores recentes indicam que _Battlefield 6_ pode ser revelado no evento, e quem sabe teremos mais informações do novo _Dragon Age_. Não existe nenhum rumor de que _The Sims 5_ possa ser anunciado (geralmente o jogo é revelado para os fã-sites antes), mas quem sabe [esse título secreto que a Maxis South]({% post_url 2019/2019-08-22-ea-abre-novo-est-dio-da-maxis-em-austin %}), aberta em 2019, possa dar as caras? Nós vamos estar de olho!
+Rumores recentes indicam que _Battlefield 6_ pode ser revelado no evento, e quem sabe teremos mais informações do novo _Dragon Age_. Não existe nenhum rumor de que _The Sims 5_ possa ser anunciado (geralmente o jogo é revelado para os fã-sites antes), mas quem sabe [esse título secreto que a Maxis South](https://esporo.net/2019/08/ea-abre-novo-est-dio-da-maxis-em-austin/), aberta em 2019, possa dar as caras? Nós vamos estar de olho!
 
 **Esse post apareceu também no [Esporo](https://esporo.net/2021/05/electronic-arts-anuncia-conferencia-ea-play-live-2021/).**
