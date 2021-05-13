@@ -64,7 +64,7 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
-    steve-for-jekyll (1.0.3)
+    steve-for-jekyll (1.1)
       jekyll (~> 4.2)
       jekyll-archives (~> 2.2)
       jekyll-feed (~> 0.15.1)
