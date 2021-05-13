@@ -46,7 +46,7 @@ comments:
   title: Comentários
   form_title: Comentar
   date_format: "%d/%m/%Y às %k:%M"
-  staticman_endpoint: "https://esporobot.herokuapp.com/v3/entry/github/esporo/esporo/main/comments"
+  staticman_endpoint: "https://esporobot.herokuapp.com/v3/entry/github/esporo/simulando/main/comments"
   notice: |+ # Accepts Markdown
     Comentários são moderados, então o seu comentário pode demorar um pouco para aparecer no site.
   fields:
