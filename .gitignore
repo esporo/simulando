@@ -1,5 +1,4 @@
 _site
-.nova
 .*-cache
 .jekyll-metadata
 vendor

@@ -1,0 +1,18 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle update"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nrm -rf .jekyll-metadata .jekyll-cache"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle exec jekyll serve -l --drafts"
+    }
+  },
+  "identifier" : "CEC8A29A-15C8-4B83-B356-2F66014AE72B",
+  "openLogOnRun" : "start"
+}
