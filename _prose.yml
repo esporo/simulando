@@ -29,7 +29,7 @@ prose:
       - name: author
         field:
           element: hidden
-          value: gaboo
+          value: arthur
       - name: date
         field:
           element: hidden
