@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # Hello Jekyll!
 gem "jekyll", "~> 4.3.2"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 gem "steve-for-jekyll", "~> 1.2"
 
